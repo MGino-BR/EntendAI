@@ -1,4 +1,4 @@
-# 🇧🇷🌍 EntendAI: Seu Tradutor Universal de Gírias Regionais e Geracionais! 🗣️👵<0xF0><0x9F><0xA7><0xAE>🤝
+# 🇧🇷🌍 EntendAI: Seu Tradutor Universal de Gírias Regionais e Geracionais! 🗣️👵🤝
 
 **Preciso da sua força! Fique ligado no Discord para votar no EntendAI e me ajudar a crescer!**
 
