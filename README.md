@@ -14,35 +14,17 @@ O EntendAI é um chatbot superinteressante e divertido que te ajuda a desvendar 
 
 ## 🚀 Como Usar Essa Brasa? (Como Rodar o EntendAI)
 
-1.  **Primeiro, garanta que você tem o Python instalado na sua máquina.** Se não tiver, corre lá no [site oficial do Python](https://www.python.org/downloads/) e instala rapidinho!
-2.  **Clone este repositório:**
+1.  **Abra o notebook `EntendAI.ipynb` no Google Colab.** Você pode fazer isso enviando o arquivo para o Colab ou abrindo-o diretamente do seu Google Drive, se estiver armazenado lá.
 
-    ```bash
-    git clone [link_do_seu_repositório]
-    cd EntendAI
-    ```
-3.  **Instale as dependências:** (Se o seu projeto usar alguma biblioteca específica, liste-as aqui e como instalar com pip)
+2.  **Execute as células de código no notebook em ordem.** Certifique-se de executar todas as células, incluindo a que define a função `main()` e a que a chama (`main()`). O chatbot será iniciado na saída da célula onde `main()` é executado.
 
-    ```bash
-    pip install [nome_da_biblioteca1] [nome_da_biblioteca2] ...
-    ```
-4.  **Execute o chatbot:**
-
-    ```bash
-    python seu_arquivo_principal.py
-    ```
-    (Substitua `seu_arquivo_principal.py` pelo nome do arquivo Python que contém o código do `main()`).
-
-5.  **Divirta-se explorando as opções e digitando as gírias e termos que te deixam curioso! Experimente também pedir traduções para outras línguas!**
+3.  **Divirta-se explorando as opções e digitando as gírias e termos que te deixam curioso! Experimente também pedir traduções para outras línguas!**
 
 ## 🗳️ Apoie o EntendAI com o seu Voto no Discord!
 
 **Se você acredita no poder da comunicação sem barreiras e achou o EntendAI "arretado", "tri legal" ou simplesmente incrível, queremos o seu apoio!**
 
 **Fique ligado no nosso canal do Discord após o envio do projeto! Lá você poderá votar no EntendAI e nos ajudar a alcançar mais pessoas e continuar crescendo! Sua participação é fundamental para que essa ideia continue a conectar o Brasil e o mundo através da linguagem!**
-
-**Junte-se à nossa comunidade no Discord para ficar por dentro das novidades e participar da votação!**
-[Link para o seu servidor Discord]
 
 ## 🛠️ Contribuições São Super Bem-Vindas!
 
